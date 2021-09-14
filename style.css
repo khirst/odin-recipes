@@ -1,0 +1,35 @@
+.img {
+    width: 100%;
+    height: auto;
+    margin: 0 auto;
+}
+
+.beerus-img {
+    width: auto;
+}
+
+.pizza-img {
+    opacity: 0.8;
+}
+
+.content {
+    background-color: white;
+    border-radius: 25px;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 10px;
+    padding-bottom: 20px;
+    box-shadow: 1px 1px 2px #444;
+}
+
+body {
+    background-color: rgb(238, 180, 74);
+    width: 75%;
+    margin: 0 auto;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.heading {
+    text-align: center;
+    color:rgb(194, 90, 71);
+}
